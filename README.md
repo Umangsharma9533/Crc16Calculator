@@ -7,3 +7,5 @@ Steps to run the code:
 
 Crc16cal.exe BianryFileWithFullPath
 4) Crc of the binaty will get printed for the same binary
+
+For example purpose there is one binaru file attached
